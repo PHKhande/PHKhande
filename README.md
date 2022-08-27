@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prathviraj Khande
-- 👀 I’m interested in Python and JavaScript.
+- 👀 I’m interested in App and Web development.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me phk151raj@gmail.com
 
