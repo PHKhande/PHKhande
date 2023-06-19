@@ -1,7 +1,16 @@
-- 👋 Hi, I’m Prathviraj Khande
-- 👀 I’m interested in App and Web development.
-- 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me phk151raj@gmail.com
+👋 Hi, I’m Prathviraj Khande
+
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on web development and open source contributions. I love exploring new technologies and building innovative solutions.
+
+🌱 I'm Currently Learning
+- React.js
+
+👯 I'm Looking to Collaborate On
+I'm interested in collaborating on open source projects related to web development and JavaScript frameworks. If you're working on something cool and need an extra pair of hands, feel free to reach out!
+
+📫 How to Reach Me
+- Email: phk151raj@gmail.com
+
 
 <!---
 PHKhande/PHKhande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
