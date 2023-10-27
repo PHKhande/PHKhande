@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on web development and open source contributions. I love exploring new technologies and building innovative solutions.
 
 🌱 I'm Currently Learning
-- React.js
+- Everything
 
 👯 I'm interested in collaborating on 
-open source projects related to web development and JavaScript frameworks. If you're working on something cool and need an extra pair of hands, feel free to reach out!
+open source projects related to web development, Python and JavaScript frameworks. If you're working on something cool and need an extra pair of hands, feel free to reach out!
 
 📫 How to Reach Me
 - Email: phk151raj@gmail.com
