@@ -10,6 +10,7 @@ open source projects related to web development, Python and JavaScript framework
 
 📫 How to Reach Me
 - Email: phk151raj@gmail.com
+- Linkedin: https://www.linkedin.com/in/prathviraj-khande/
 
 
 <!---
